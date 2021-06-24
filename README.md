@@ -8,4 +8,4 @@
 
 # The Thames River Basin Pfafstetter Codification
 
-![image](https://user-images.githubusercontent.com/64214370/120523786-02618180-c3df-11eb-918c-b81b0205fe15.png)
+<img width="890" alt="ThamesRiverBasinPfaf" src="https://user-images.githubusercontent.com/64214370/123221469-a8cd0e00-d4d7-11eb-9f75-42ec5df79e6c.png">
