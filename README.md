@@ -1,9 +1,9 @@
+
 # Binary Tree
 
 # Network Codification
 
-
-<img width="1308" alt="PFAF_RECAP_final" src="https://user-images.githubusercontent.com/64214370/123220845-001eae80-d4d7-11eb-8896-24075d4c5d1d.png">
+<img width="1292" alt="PFAF_RECAP" src="https://user-images.githubusercontent.com/64214370/125661264-9f381309-65fd-4d64-b36f-ca3a3b5066d0.png">
 
 
 # The Thames River Basin Pfafstetter Codification
