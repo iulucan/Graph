@@ -18,6 +18,3 @@
 # The Cakit River Basin in 3D view
 
 ![CakitPfaf3D](https://user-images.githubusercontent.com/64214370/123222571-be8f0300-d4d8-11eb-997b-8742760ac1ee.png)
-
-# website: http://gistechno.com/
-# contact mail: ulucan.ibrahim@metu.edu.tr
